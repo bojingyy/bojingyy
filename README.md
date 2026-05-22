@@ -7,4 +7,4 @@
 </div>
 
 
-HIHI
+Graduate Computer Science & Engineering student at Santa Clara University with hands-on experience in full-stack development and database management. I’ve built website interaction panels, property search website, patient management systems, and more web apps that solve real-world problems. Proficient in Java, SQL, and JavaScript, I’m passionate about creating impactful, user-friendly software. 
