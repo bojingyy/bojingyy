@@ -46,7 +46,6 @@
 - 🧠 **Semantic Inverse Design** @ SCU — Contributing to a framework that translates natural-language engineering intent into manufacturable cellular geometries, with proposed LLM integration for dialogue-driven design refinement and intelligent constraint reasoning
 
 ---
----
 
 ### 📚 Currently Exploring
 
@@ -54,3 +53,4 @@
 - 3D web experiences with React Three Fiber & WebGL
 - Scalable cloud-native architectures on AWS
 
+---
