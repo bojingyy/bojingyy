@@ -11,6 +11,7 @@
   <a href="mailto:bojingyy@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
 ### 🌸 About Me
 
@@ -44,6 +45,7 @@
 
 - 🧠 **Semantic Inverse Design** @ SCU — Contributing to a framework that translates natural-language engineering intent into manufacturable cellular geometries, with proposed LLM integration for dialogue-driven design refinement and intelligent constraint reasoning
 
+---
 ---
 
 ### 📚 Currently Exploring
